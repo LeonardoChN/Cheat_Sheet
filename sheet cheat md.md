@@ -1,7 +1,7 @@
 Titulos (#)
 # Titulo grande
-## titulo mediano
-### titulo pequeño
+## Titulo mediano
+### Titulo pequeño
 
 Negrita  **Negrita**
 Cursiva  *Cursiva*
@@ -43,12 +43,11 @@ Regla Horizontal
 LINK (URL)
 [LINK](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-IMAGEN
+
 IMGAGEN:
 ![alt text](https://wallpapercave.com/wp/wp4932296.jpg)
 
-GIF
-gif:
+GIF:
 ![Goku GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1pbjlpbm1icm1yM3F0NmhobGFoM284dGp1ZzFqOXNxN3p5aDdzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixmzSYVKYrHgc/giphy.gif)
 
 
