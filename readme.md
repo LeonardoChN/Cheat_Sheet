@@ -11,5 +11,4 @@ editarlo en este fomrato mas que en un txt, para ser mas grafico y estetico? xd
 
 
 
-
-[👍](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN1MnJ5b2txNW5pOWljeG5haThrM3E1aGtkaWgxcTNoZjBoMnFyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUDGo9jYZzVt3DExhi/giphy.gif)
+![GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN1MnJ5b2txNW5pOWljeG5haThrM3E1aGtkaWgxcTNoZjBoMnFyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUDGo9jYZzVt3DExhi/giphy.gif)
