@@ -1,6 +1,5 @@
 # Aca dejare mis hojas de trucos (comandos y demas)
 
-======
 
 Sabemos que la mente es fragil y si no se ejecita ni aplicamos lo aprendido
 rapido se olvida, por eso dejare este repositorio con comandos aun que aveces 
