@@ -37,3 +37,12 @@ pip install -r requirements.txt
 ```sh
 pip install -r .\requeriments.txt
 ```
+
+5. Eliminar Todos los Paquetes
+(Para esto creamos un .txt con freeze)
+```sh
+pip freeze > requirements.txt
+pip uninstall -r requirements.txt -y
+rm requirements.txt
+```
+
