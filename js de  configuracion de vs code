@@ -1,0 +1,22 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "extensions.ignoreRecommendations": true,
+    "cSpell.userWords": [
+        "usuarios"
+    ],
+    "workbench.editorAssociations": {
+        "*.sqlite3": "default"
+    },
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.fontLigatures": true,
+    "editor.guides.bracketPairs": "active",
+    "git.autofetch": true,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.settings.applyToAllProfiles": [
+        "editor.fontFamily"
+    ],
+    "editor.fontFamily": "Fragment Mono"
+}
