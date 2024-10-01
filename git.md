@@ -45,6 +45,31 @@ git push
 
 ======
 ======
+### Volver a un Commit anterior
+
+- Enumera el Historial de los push
+```bash
+git log
+
+```
+
+- Rehacer todo antes del comit seleccionado
+```bash
+git reset [commit]
+```
+
+- Rehacer todo antes del comit seleccionado pero de una manera bruta (brusca)
+```bash
+git reset --hard [commit]
+```
+
+- Push luego del reset esto va directo al Github
+```bash
+git push origin HEAD --force
+```
+
+======
+======
 ### Git en Grupo
 
 - Clonar repositorio
@@ -99,20 +124,6 @@ git rm --cached [file]
 - Renombrar un Archivo
 ```bash
 git mv [old_filename.txt] [new_filename.txt]
-```
-
-- Enumera el Historial
-```bash
-git log
-
-```
-
-- Rehacer todo antes del comit seleccionado
-```bash
-git reset [commit]
-```
-```bash
-git reset --hard [commit]
 ```
 
 ======
