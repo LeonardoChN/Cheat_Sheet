@@ -40,6 +40,24 @@ Regla Horizontal
 ****
 
 
+NOTAS
+
+>[!NOTE]
+>ESTO ES UNA NOTA
+
+>[!TIIP]
+>ESTOS ES UN TIP
+
+>[!IMPORTANT]
+>ESTOS ES UN IMPORTANT
+
+>[!WARNING]
+>ESTOS ES UN WARNING
+
+>[!CAUTION]
+>ESTOS ES UN CAUTION
+
+
 LINK (URL)
 [LINK](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
