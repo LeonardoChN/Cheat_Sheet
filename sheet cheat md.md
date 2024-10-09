@@ -30,10 +30,11 @@ Lista con HTML
 
 Linea de Codigo `Linea de Codigo`
 
-Regla Horizontal
-----
-Regla Horizontal
+
+Regla Horizontal (TITULOS)
 ======
+Regla Horizontal (FINO)
+----
 Regla Horizontal
 ____
 Regla Horizontal
