@@ -30,7 +30,10 @@ Lista con HTML
 
 Linea de Codigo `Linea de Codigo`
 
-
+```cmd
+COMANDO EN CMD 
+```
+Fin comando (cmd,bat,powershell,sh,bash,shell,python,js,ts,json,sql,txt) 
 Regla Horizontal (TITULOS)
 ======
 Regla Horizontal (FINO)
