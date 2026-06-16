@@ -3,12 +3,12 @@
 
 Sabemos que la mente es fragil y si no se ejecita ni aplicamos lo aprendido
 rapido se olvida, por eso dejare este repositorio con comandos aun que aveces 
-puede ser faciles o algo muy comun, no esta demas dejarlos aca 
-(nunca se sabe cuando tendra que recurrir a esta ayuda)
+puede ser faciles o algo muy común, pero de todas formas no esta demas dejarlos aca.
+(nunca se sabe cuando tendra que recurrir a la ayuda)
 
 
 lo realizare en un .MD debido que a mi se me hace mas simple
-editarlo en este fomrato mas que en un txt, para ser mas grafico y estetico? xd
+editarlo en este fomrato mas que en un txt, para ser mas grafico y estetico(?) xd
 
 
 
